@@ -38,21 +38,6 @@ InfoSystem_Root/          # 程序运行时自动创建
     └── Charlie.txt
 ```
 
-## 编译与运行
-
-### Linux / macOS (GCC / Clang)
-
-```bash
-g++ -std=c++17 -o InfoSystem InfoSystem_Complete.cpp
-./InfoSystem
-```
-
-### Windows (MSVC)
-
-```powershell
-cl /std:c++17 InfoSystem_Complete.cpp
-InfoSystem.exe
-```
 
 ## 使用说明
 
